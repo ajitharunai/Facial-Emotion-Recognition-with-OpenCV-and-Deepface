@@ -10,7 +10,7 @@ To streamline this process, we've utilized the `deepface` library, a deep learni
 
 ### Initial Setup:
 
-1. Clone the repository: Execute `git clone https://github.com/manish-9245/Facial-Emotion-Recognition-using-OpenCV-and-Deepface.git`.
+1. Clone the repository: Execute `git clone https://github.com/ajitharunai/Facial-Emotion-Recognition-with-OpenCV-and-Deepface/`.
 
 2. Navigate to the project directory: Run `cd Facial-Emotion-Recognition-using-OpenCV-and-Deepface`.
 
